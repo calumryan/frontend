@@ -36,7 +36,7 @@ export default function () {
     Promise.all(fonts)
       .then(eventFontsLoaded)
       .catch(err => {
-        console.log(err);
+        console.error(err);
       });
   }
 
