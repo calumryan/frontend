@@ -1,14 +1,14 @@
 {
   "lang": "en-gb",
-  "name": "24 ways",
-  "short_name": "24 ways",
+  "name": "IndieWeb components",
+  "short_name": "IW components",
   "icons": [{
     "src": "/assets/icons/icon.png",
     "sizes": "512x512",
     "type": "image/png"
   }],
-  "theme_color": "#302",
-  "background_color": "#f04",
+  "theme_color": "#FF5C00",
+  "background_color": "#fff",
   "display": "browser",
   "scope": "/",
   "start_url": "/"
