@@ -1,19 +1,19 @@
 {
-  "name": "24ways-frontend",
-  "version": "2016.0.0",
-  "description": "Bits, the front-end component library for 24 ways",
+  "name": "IndieWeb-components",
+  "version": "2017.0.0",
+  "description": "IndieWeb components, a front-end component library and styleguide including common Microformat data formats",
   "keywords": [
     "styleguide",
     "patterns",
     "library"
   ],
-  "homepage": "http://bits.24ways.org",
-  "bugs": "https://github.com/24ways/frontend/issues",
+  "homepage": "",
+  "bugs": "https://github.com/calumryan/indieweb-components/issues",
   "license": "SEE LICENSE IN LICENSE",
-  "author": "Paul Robert Lloyd",
+  "author": "Calum Ryan",
   "repository": {
     "type": "git",
-    "url": "https://github.com/24ways/frontend.git"
+    "url": "https://github.com/calumryan/indieweb-components.git"
   },
   "main": "fractal.js",
   "scripts": {
