@@ -5,11 +5,10 @@
 /* Banner */
 $banner-height--small: map(sizes, large);
 $banner-height--large: map(sizes, xlarge);
-$banner-duration: 0.1s;
 
 /* Navigation */
 $navigation-width--large: map(sizes, xlarge);
-$navigation-duration: 0.2s;
+$navigation-duration: 2s;
 $navigation-color: white;
 $navigation-color--offset: map(colors, neutral, lightest);
 $navigation-color--text: map(colors, neutral, dark);
