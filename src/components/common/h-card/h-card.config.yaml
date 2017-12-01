@@ -1,0 +1,9 @@
+title: h-card
+context:
+    my_name: Calum Ryan
+    my_email: hello@calumryan.com
+    my_street_address: 10 West Street
+    my_locality: London
+    my_country: UK
+    my_website: https://calumryan.com
+    my_photo: https://calumryan.com/images/profile_md.jpg

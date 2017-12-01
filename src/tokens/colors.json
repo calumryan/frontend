@@ -1,8 +1,8 @@
 {
   "primary": {
-    "light": "#f04",
+    "light": "#FFF",
     "base": "#c02",
-    "dark": "#601"
+    "dark": "#005ea5"
   },
   "secondary": {
     "light": "#3be",

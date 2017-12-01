@@ -1,0 +1,23 @@
+.h-event {
+    padding: 20px 20px 20px 130px;
+    position: relative;
+    z-index: 1;
+
+    h1 {
+        font-weight: 600;
+    }
+
+    svg {
+        position: absolute;
+        left: 10px;
+        top: 10px;
+        z-index: 1;
+        width: 100px;
+        height: auto;
+        path {
+            fill {
+                stroke: #000000;
+            }
+        }
+    }
+}

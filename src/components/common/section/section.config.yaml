@@ -40,8 +40,8 @@ variants:
 
       <a class="c-continue" href="#comment-form">Got something to add? Leave a comment below</a>
     comments:
-    - "@comment"
-    - "@comment--unhelpful"
+    # - "@comment"
+    # - "@comment--unhelpful"
 - name: related
   context:
     id: related
