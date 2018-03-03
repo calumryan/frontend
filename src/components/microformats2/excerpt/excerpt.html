@@ -1,0 +1,18 @@
+<article class="h-entry excerpt as-note">
+  <header class="excerpt__header">
+    <h1 class="excerpt__title p-name">
+      <a class="u-url"
+         href="{{ excerpt_href }}"
+         rel="bookmark">{{ title }}</a>
+    </h1>
+  </header>
+  <div class="excerpt__main">
+    <p class="p-summary">{{ content }}</p>
+  </div>
+  <footer class="excerpt__footer">
+    <p class="excerpt__meta">
+      <time class="dt-published"
+            datetime="{{ datetime }}">{{ datetime | date('D MMMM YYYY') }}</time>
+    </p>
+  </footer>
+</article>

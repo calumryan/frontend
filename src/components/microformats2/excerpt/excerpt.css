@@ -1,0 +1,16 @@
+.h-entry {
+    header.excerpt__header {
+        background-color:transparent;
+        padding:0;
+        
+        a {
+            color:#666;
+        }
+    }
+}
+
+.excerpt {
+    & .hfeed {
+        flex:1 0 33.333%;
+    }
+}

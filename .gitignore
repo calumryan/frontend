@@ -6,3 +6,4 @@ tmp
 # Files
 .DS_Store
 .publish
+package-lock.json
